@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Eventat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="PhoneText">0096597244282</string>
+    <string name="ContactText">mh.1983@hotmail.com</string>
+    <string name="saturday">Saturday</string>
+    <string name="dayTime">04:00 PM - 08:00 PM</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+
+
+</resources>
